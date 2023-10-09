@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Alenky/static/css/main.b0b5b40d.css",
-    "main.js": "/Alenky/static/js/main.51bf617a.js",
+    "main.css": "/Alenky/static/css/main.991dcabf.css",
+    "main.js": "/Alenky/static/js/main.915323dd.js",
     "static/js/787.6e392db3.chunk.js": "/Alenky/static/js/787.6e392db3.chunk.js",
     "static/media/Banner 01.jpg": "/Alenky/static/media/Banner 01.aa1b92ec826818cc4dd2.jpg",
     "static/media/Banner 06.jpg": "/Alenky/static/media/Banner 06.39884329c847bf3edb96.jpg",
@@ -15,17 +15,18 @@
     "static/media/Banner 09.jpg": "/Alenky/static/media/Banner 09.68ff330fd05913e065bd.jpg",
     "static/media/Banner 10.jpg": "/Alenky/static/media/Banner 10.dbe2a927358f623e6731.jpg",
     "static/media/webtoon.svg": "/Alenky/static/media/webtoon.a2a22a6c2bc4b17f127d2322e5b68a39.svg",
+    "static/media/polygon-scatter-haikei.svg": "/Alenky/static/media/polygon-scatter-haikei.4759adb423a2cedb6ea8.svg",
     "index.html": "/Alenky/index.html",
     "static/media/instagram.svg": "/Alenky/static/media/instagram.93becf39809ceb00cabc700dd76dba92.svg",
     "static/media/youtube.svg": "/Alenky/static/media/youtube.be0f7234f4246a33434249f913262322.svg",
-    "static/media/twitter-X.svg": "/Alenky/static/media/twitter-X.8e2ae275fbbbdec0034cc4cfd32a6801.svg",
     "static/media/patreon.svg": "/Alenky/static/media/patreon.95a4ff67f8e4400227027a508f869a58.svg",
-    "main.b0b5b40d.css.map": "/Alenky/static/css/main.b0b5b40d.css.map",
-    "main.51bf617a.js.map": "/Alenky/static/js/main.51bf617a.js.map",
+    "static/media/icons8-deviantart.svg": "/Alenky/static/media/icons8-deviantart.c45094be46822a1229bf5b9c8cac7f20.svg",
+    "main.991dcabf.css.map": "/Alenky/static/css/main.991dcabf.css.map",
+    "main.915323dd.js.map": "/Alenky/static/js/main.915323dd.js.map",
     "787.6e392db3.chunk.js.map": "/Alenky/static/js/787.6e392db3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0b5b40d.css",
-    "static/js/main.51bf617a.js"
+    "static/css/main.991dcabf.css",
+    "static/js/main.915323dd.js"
   ]
 }
