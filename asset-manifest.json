@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/Alenky/static/css/main.991dcabf.css",
-    "main.js": "/Alenky/static/js/main.915323dd.js",
+    "main.css": "/Alenky/static/css/main.4da785eb.css",
+    "main.js": "/Alenky/static/js/main.579e366a.js",
     "static/js/787.6e392db3.chunk.js": "/Alenky/static/js/787.6e392db3.chunk.js",
-    "static/media/Banner 01.jpg": "/Alenky/static/media/Banner 01.aa1b92ec826818cc4dd2.jpg",
-    "static/media/Banner 06.jpg": "/Alenky/static/media/Banner 06.39884329c847bf3edb96.jpg",
-    "static/media/Banner 03.jpg": "/Alenky/static/media/Banner 03.a149d0af1b65bf81b1e9.jpg",
-    "static/media/Banner 08.jpg": "/Alenky/static/media/Banner 08.1e0e1a667c14cfc31fa6.jpg",
-    "static/media/Demo-Small-tyler lastovich.jpg": "/Alenky/static/media/Demo-Small-tyler lastovich.7b80140921128cbcbec0.jpg",
-    "static/media/Banner 02.jpg": "/Alenky/static/media/Banner 02.4bd655c574048b3f0838.jpg",
-    "static/media/Banner 04.jpg": "/Alenky/static/media/Banner 04.26925df33ae7d7f055bf.jpg",
-    "static/media/Banner 05.jpg": "/Alenky/static/media/Banner 05.0a2883a93fdb9c1b861f.jpg",
-    "static/media/Banner 07.jpg": "/Alenky/static/media/Banner 07.39606fea5c2d787c9fe7.jpg",
-    "static/media/Banner 09.jpg": "/Alenky/static/media/Banner 09.68ff330fd05913e065bd.jpg",
-    "static/media/Banner 10.jpg": "/Alenky/static/media/Banner 10.dbe2a927358f623e6731.jpg",
+    "static/media/pexels-cottonbro-studio-5095880.jpg": "/Alenky/static/media/pexels-cottonbro-studio-5095880.f37181c49156b6bfe4f8.jpg",
+    "static/media/pexels-cottonbro-studio-5095887.jpg": "/Alenky/static/media/pexels-cottonbro-studio-5095887.fd340c1cd5bc762fa023.jpg",
+    "static/media/pexels-phil-s-2416463.jpg": "/Alenky/static/media/pexels-phil-s-2416463.742b1bbe430efa690ef9.jpg",
+    "static/media/pexels-martijn-adegeest-633565.jpg": "/Alenky/static/media/pexels-martijn-adegeest-633565.16af71ab75d6155093f2.jpg",
+    "static/media/PhotoProfile03.png": "/Alenky/static/media/PhotoProfile03.ef89a65a488c200bb0f3.png",
+    "static/media/PhotoProfile02.png": "/Alenky/static/media/PhotoProfile02.ef3133369f35075193ed.png",
+    "static/media/PhotoProfile01.png": "/Alenky/static/media/PhotoProfile01.165622f1ac2c40d51779.png",
     "static/media/webtoon.svg": "/Alenky/static/media/webtoon.a2a22a6c2bc4b17f127d2322e5b68a39.svg",
     "static/media/polygon-scatter-haikei.svg": "/Alenky/static/media/polygon-scatter-haikei.4759adb423a2cedb6ea8.svg",
     "index.html": "/Alenky/index.html",
@@ -21,12 +17,12 @@
     "static/media/youtube.svg": "/Alenky/static/media/youtube.be0f7234f4246a33434249f913262322.svg",
     "static/media/patreon.svg": "/Alenky/static/media/patreon.95a4ff67f8e4400227027a508f869a58.svg",
     "static/media/icons8-deviantart.svg": "/Alenky/static/media/icons8-deviantart.c45094be46822a1229bf5b9c8cac7f20.svg",
-    "main.991dcabf.css.map": "/Alenky/static/css/main.991dcabf.css.map",
-    "main.915323dd.js.map": "/Alenky/static/js/main.915323dd.js.map",
+    "main.4da785eb.css.map": "/Alenky/static/css/main.4da785eb.css.map",
+    "main.579e366a.js.map": "/Alenky/static/js/main.579e366a.js.map",
     "787.6e392db3.chunk.js.map": "/Alenky/static/js/787.6e392db3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.991dcabf.css",
-    "static/js/main.915323dd.js"
+    "static/css/main.4da785eb.css",
+    "static/js/main.579e366a.js"
   ]
 }
